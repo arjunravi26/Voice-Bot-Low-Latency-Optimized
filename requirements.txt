@@ -1,0 +1,9 @@
+openai
+elevenlabs
+pyaudio
+numpy
+deepinfra
+scipy
+requests
+dotenv
+faster-whisper
